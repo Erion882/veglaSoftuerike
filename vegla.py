@@ -11,7 +11,7 @@ elif 70 <= piket < 80:
     nota = 8
 elif 80 <= piket < 90:
     nota = 9
-elif 90 <= piket <= 100:
+elif 90 <= piket <= 101:
     nota = 10
 else:
     print("Piket e shenuara jane jo valide")
